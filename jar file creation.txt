@@ -1,0 +1,7 @@
+To extract jar file 
+	-> jar  -xf[filename.jar]
+To recreate jar file	
+	-> jar cmvf META-INF/MANIFEST.MF [jarFilename.jar] remaining file
+
+
+//https://github.com/mightyjava-->Sptingboot reference git hub
